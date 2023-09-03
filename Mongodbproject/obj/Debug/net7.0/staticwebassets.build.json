@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "2YnxkOmzR6ZQJXhlfaApCeUedsnqOTCs3q4l2ti0keE=",
+  "Source": "Mongodbproject",
+  "BasePath": "_content/Mongodbproject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mongodbproject\\wwwroot",
+      "Source": "Mongodbproject",
+      "ContentRoot": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\",
+      "BasePath": "_content/Mongodbproject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\images\\pic\\06a92391-f919-4d22-8ed4-07e0d2b184cb_Formative Assesment 2.jpg",
+      "SourceId": "Mongodbproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\",
+      "BasePath": "_content/Mongodbproject",
+      "RelativePath": "images/pic/06a92391-f919-4d22-8ed4-07e0d2b184cb_Formative Assesment 2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pic\\06a92391-f919-4d22-8ed4-07e0d2b184cb_Formative Assesment 2.jpg"
+    },
+    {
+      "Identity": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\images\\pic\\4012a0ea-ea9f-44bb-a3e1-bf9e05142303_Formative Assesment 2.jpg",
+      "SourceId": "Mongodbproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\",
+      "BasePath": "_content/Mongodbproject",
+      "RelativePath": "images/pic/4012a0ea-ea9f-44bb-a3e1-bf9e05142303_Formative Assesment 2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pic\\4012a0ea-ea9f-44bb-a3e1-bf9e05142303_Formative Assesment 2.jpg"
+    },
+    {
+      "Identity": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\images\\pic\\c07c05c4-4a78-41b9-b81b-7dff6bc30f7d_Formative Assesment 1.jpg",
+      "SourceId": "Mongodbproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\mongodb\\Mongodbproject\\Mongodbproject\\wwwroot\\",
+      "BasePath": "_content/Mongodbproject",
+      "RelativePath": "images/pic/c07c05c4-4a78-41b9-b81b-7dff6bc30f7d_Formative Assesment 1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pic\\c07c05c4-4a78-41b9-b81b-7dff6bc30f7d_Formative Assesment 1.jpg"
+    }
+  ]
+}
